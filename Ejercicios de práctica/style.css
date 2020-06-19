@@ -1,0 +1,20 @@
+p{
+    color:blue;
+}
+h1{
+    color:#FF9999;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+h2{
+    color: #FF0000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#mainTitle{
+    color: yeloow;
+    font-size:16px;
+    font-weight: bold;
+}
